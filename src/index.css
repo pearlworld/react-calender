@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Orbit&display=swap');
+
+:root {
+  font-family: 'Noto Sans KR', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+a {
+  color: #646cff;
+  text-decoration: none;
+}
+a:hover {
+  color: #535bf2;
+}
+body {
+  margin: 0;
+}
+button {
+  border-radius: 8px;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: 0.25s;
+}
